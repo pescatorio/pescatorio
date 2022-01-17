@@ -2,7 +2,7 @@
 <div>
 <br>
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neonderthaw&color=%2336BCF7&size=50&center=true&vCenter=true&lines=make+your+dreams+come+true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neonderthaw&color=%23A2D2FF&size=50&lines=make+your+dreams+come+true)](https://git.io/typing-svg)
 </div>
  
 * * *
