@@ -47,14 +47,14 @@
 </p>
 </div>
 <!-- https://simpleicons.org/?q=java --></br>
-<!-- 기술블로그 끝 -->
+
 
 
 
 </br>
 <h3><b> 🔭 Github Stats </b></h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pescatorio)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pescatorio&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
       
 
